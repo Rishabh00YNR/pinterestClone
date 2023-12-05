@@ -20,7 +20,13 @@ body {
   border-radius: 10px;
   box-shadow: 2px 2px 3px -1px rgba(0, 0, 0, 0.5);
 }
-
+.error{
+  color: red;
+  font-size: 13px;
+  font-weight: 700;
+  margin: 5px;
+  left: 10px;
+}
 .content {
   position: relative;
   width: 70%; /* Use percentage instead of pixels */
